@@ -13,7 +13,7 @@
     <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
-<br>
+##
  
 <div>
     <a href="http://lattes.cnpq.br/3090486923351339" target="_blank"><img src="https://img.shields.io/badge/lattes-004AAD?style=for-the-badge&logoColor=white" target="_blank"></a> 
