@@ -1,10 +1,8 @@
 ## Oiii! Eu sou o Vinícius Rezende
 
-<div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/vprezende">
   ![vprezende's Stats](https://github-readme-stats.vercel.app/api?username=vprezende&theme=dracula&show_icons=true&hide_border=false&count_private=true)
   ![vprezende's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Latex" height="30" width="40" src="https://img.shields.io/badge/LaTeX-%23333.svg">
     <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
