@@ -1,6 +1,6 @@
 ## Oiii! Eu sou o Vinícius Rezende
 
-<div style="display: flex; justify-content: space-between;">
+<div>
   <a href="https://github.com/vprezende">
   <img src="https://github-readme-stats.vercel.app/api?username=vprezende&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de vprezende"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Linguagens mais usadas por vprezende"/>
