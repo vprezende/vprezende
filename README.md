@@ -21,7 +21,7 @@
 </div>
 
 <div style="display: inline_block">
-    <img width="100" height="100" align="right" alt="BabyYoda" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtodXE0eHM2bGx3cmk2dDlqZXNlYWN4dDV2a2lvdzdqcWdsenNmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1A7ETzpIvs7GzWOYYC/giphy.gif">
+    <picture><img align="right" alt="BabyYoda" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtodXE0eHM2bGx3cmk2dDlqZXNlYWN4dDV2a2lvdzdqcWdsenNmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1A7ETzpIvs7GzWOYYC/giphy.gif"></picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake-dark.svg">
