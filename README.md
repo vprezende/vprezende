@@ -11,6 +11,7 @@
   <img align="center" alt="Latex" height="30" width="40" src="https://img.shields.io/badge/LaTeX-%23333.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Yoda" align="right" height="90" width="100" src="https://giphy.com/gifs/child-grogu-thechild-1A7ETzpIvs7GzWOYYC">
 </div>
 
 ##
