@@ -1,6 +1,5 @@
 ## Oiii! Eu sou o Vinícius Rezende
 
-  <a href="https://github.com/vprezende">
   ![vprezende's Stats](https://github-readme-stats.vercel.app/api?username=vprezende&theme=dracula&show_icons=true&hide_border=false&count_private=true)
   ![vprezende's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 <div style="display: inline_block"><br>
