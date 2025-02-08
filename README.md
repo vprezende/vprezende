@@ -24,7 +24,7 @@
  
 <div>
   <a href="http://lattes.cnpq.br/3090486923351339" target="_blank">
-    <i class="ai ai-lattes ai-4x" style="color: #333269;"></i>
+    <i class="ai ai-lattes ai-4x"></i>
   </a>
   <a href = "mailto:vinicius.rezende@gsuite.iff.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vprezende" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
