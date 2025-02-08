@@ -2,7 +2,7 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/vprezende">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=vprezende&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de vprezende"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=vprezende&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de vprezende"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Linguagens mais usadas por vprezende"/>
 </div>
 <div style="display: inline_block"><br>
