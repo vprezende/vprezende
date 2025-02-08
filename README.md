@@ -26,5 +26,5 @@
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake-dark.svg">
         <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake.svg">
     </picture>
-    <img style="margin-left: 20px;" alt="BabyYoda" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtodXE0eHM2bGx3cmk2dDlqZXNlYWN4dDV2a2lvdzdqcWdsenNmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1A7ETzpIvs7GzWOYYC/giphy.gif">
+    <img style="margin-right: 20px;" alt="BabyYoda" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtodXE0eHM2bGx3cmk2dDlqZXNlYWN4dDV2a2lvdzdqcWdsenNmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1A7ETzpIvs7GzWOYYC/giphy.gif">
 </div>
