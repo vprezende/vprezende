@@ -20,11 +20,10 @@
     <a href="https://www.linkedin.com/in/vprezende"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake-dark.svg">
-        <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake.svg">
-    </picture>
+        <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake.svg" style="width=300px">
     <img style="margin-left: 20px; width: 150px;" alt="BabyYoda" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtodXE0eHM2bGx3cmk2dDlqZXNlYWN4dDV2a2lvdzdqcWdsenNmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1A7ETzpIvs7GzWOYYC/giphy.gif">
 </div>
