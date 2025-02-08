@@ -3,7 +3,7 @@
 <div style="display: inline_block">
   <a href="https://github.com/vprezende">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vprezende&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=dracula&show_icons=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=dracula&show_icons=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Latex" height="30" width="40" src="https://img.shields.io/badge/LaTeX-%23333.svg">
