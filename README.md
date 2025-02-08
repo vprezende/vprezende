@@ -17,6 +17,10 @@
 </div>
   
 ##
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+<link rel="canonical" href="https://jpswalsh.github.io/academicons/">
  
 <div>
   <a href="http://lattes.cnpq.br/3090486923351339" target="_blank">
