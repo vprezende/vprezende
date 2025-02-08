@@ -21,7 +21,7 @@
 <div>
   <a href="http://lattes.cnpq.br/3090486923351339">
     <svg>
-      <use href="https://github.com/jpswalsh/academicons/blob/master/svg/lattes-square.svg"></use>
+      <use xlink:href="https://github.com/jpswalsh/academicons/blob/master/svg/lattes-square.svg" href="https://github.com/jpswalsh/academicons/blob/master/svg/lattes-square.svg"></use>
     </svg>
   </a>
   <a href ="mailto:vinicius.rezende@gsuite.iff.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
