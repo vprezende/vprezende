@@ -1,9 +1,10 @@
 ## Oiii! Eu sou o Vinícius Rezende
 
-<div>
-  <a href="https://github.com/vprezende">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+<div style="text-align: center;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+	<a href="https://github.com/mari4souza/github-readme-stats">
+  	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+	</a>
 </div>
     
 <div style="display: inline_block"><br>
@@ -21,4 +22,8 @@
   <a href="https://www.linkedin.com/in/vprezende"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake-dark.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake.svg">
+</picture>
