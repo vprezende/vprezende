@@ -1,9 +1,9 @@
 ## Oiii! Eu sou o Vinícius Rezende
 
 <div style="text-align: center;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&line_height=25"/>
 	<a href="https://github.com/mari4souza/github-readme-stats">
-  	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+  	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&line_height=10&card_width=290&layout=compact"/>
 	</a>
 </div>
     
