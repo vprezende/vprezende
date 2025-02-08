@@ -1,10 +1,9 @@
 ## Oiii! Eu sou o Vinícius Rezende
 
-<div>
-  <a href="https://github.com/vprezende">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
-</div>
+<a href="https://github.com/vprezende">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/><br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Latex" height="30" width="40" src="https://img.shields.io/badge/LaTeX-%23333.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
