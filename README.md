@@ -18,7 +18,7 @@
     <a href="http://lattes.cnpq.br/3090486923351339"><img src="https://img.shields.io/badge/lattes-004AAD?style=for-the-badge&logoColor=white"></a> 
     <a href ="mailto:vinicius.rezende@gsuite.iff.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/vprezende"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <img align="right" height="90" width="50" alt="BabyYoda" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtodXE0eHM2bGx3cmk2dDlqZXNlYWN4dDV2a2lvdzdqcWdsenNmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1A7ETzpIvs7GzWOYYC/giphy.gif">
+    <img align="right" height="90" width="100" alt="BabyYoda" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtodXE0eHM2bGx3cmk2dDlqZXNlYWN4dDV2a2lvdzdqcWdsenNmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1A7ETzpIvs7GzWOYYC/giphy.gif">
 </div>
 
 <picture align="center">
