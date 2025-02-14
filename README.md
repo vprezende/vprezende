@@ -14,9 +14,15 @@
 ##
  
 <div>
-	<a href="http://lattes.cnpq.br/3090486923351339"><img src="https://img.shields.io/badge/lattes-004AAD?style=for-the-badge&logoColor=white"></a> 
-	<a href ="mailto:vinicius.rezende@gsuite.iff.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/vprezende"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="http://lattes.cnpq.br/3090486923351339">
+		<img src="https://img.shields.io/badge/lattes-004AAD?style=for-the-badge&logoColor=white">
+	</a> 
+	<a href ="mailto:vinicius.rezende@gsuite.iff.edu.br">
+		<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+  <a href="https://www.linkedin.com/in/vprezende">
+		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
 </div>
 
 ##
