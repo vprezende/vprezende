@@ -25,6 +25,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake.svg">
 </picture>
 
-<picture align="center">
+<div align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=vprezende&bg_color=000005&color=ffffff&line=8cff00&point=0062ff&area=true&hide_border=true&bg_color=0d1117" alt="Vinicius Rezende github stats"/>
-</picture>
+</div>
