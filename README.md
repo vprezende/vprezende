@@ -28,5 +28,5 @@
 <br>
 
 <div align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=vprezende&bg_color=000005&color=ffffff&line=8cff00&point=0062ff&area=true&hide_border=true&bg_color=0d1117" alt="Vinicius Rezende github stats"/>
+	<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="Vinicius Rezende github stats"/>
 </div>
