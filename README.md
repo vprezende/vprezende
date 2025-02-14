@@ -25,7 +25,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br>
+<br><br>
 
 <div align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=vprezende&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Vinicius Rezende github stats"/>
