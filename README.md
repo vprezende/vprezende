@@ -1,12 +1,10 @@
 ## Oiii! Eu sou o Vinícius Rezende
 
-<div style="display: flex">
-	<div style="margin-right: 200px">
-		<img src="https://github-readme-stats.vercel.app/api?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&hide=issues"/>
-	  <a href="https://github.com/vprezende">
-	  	<img width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
-		</a>
-	</div>
+<div>
+	<img src="https://github-readme-stats.vercel.app/api?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&hide=issues" style="margin-right: 20px;"//>
+	<a href="https://github.com/vprezende">
+	  <img width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+	</a>
 </div>
     
 <div><br>
