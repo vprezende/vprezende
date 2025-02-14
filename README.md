@@ -1,6 +1,6 @@
 ## Oiii! Eu sou o Vinícius Rezende
 
-<div sty>
+<div style="gap: 5">
   <img src="https://github-readme-stats.vercel.app/api?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&hide=issues"/>
   <a href="https://github.com/vprezende">
   	<img width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
