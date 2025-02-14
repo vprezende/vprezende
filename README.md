@@ -25,6 +25,4 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-	<img width="41%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=vprezende&bg_color=000005&color=ffffff&line=8cff00&point=0062ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vprezende&bg_color=000005&color=ffffff&line=8cff00&point=0062ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
