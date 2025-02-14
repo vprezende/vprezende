@@ -5,10 +5,10 @@
 	<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117"/>
 </div>
     
-<div align="center"><br>
-  <img alt="Latex" height="30" width="40" src="https://img.shields.io/badge/LaTeX-%23333.svg">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div><br>
+  <img align="center" alt="Latex" height="30" width="40" src="https://img.shields.io/badge/LaTeX-%23333.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ##
@@ -24,3 +24,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+	<img width="41%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=vprezende&bg_color=000005&color=ffffff&line=8cff00&point=0062ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+</div>
