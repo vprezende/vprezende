@@ -5,7 +5,7 @@
 	<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117"/>
 </div>
 
-### Linguagens
+### Linguagens:
     
 <div><br>
   <img align="center" alt="Latex" height="30" width="40" src="https://img.shields.io/badge/LaTeX-%23333.svg">
