@@ -1,10 +1,8 @@
 ## Oi meu nome é Vinícius, faço aplicativos para celulares e web usando Flutter
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vprezende&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
 <div align="center">
   <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&show_icons=true&theme=dark&layout=compact" />
-  <img src="https://streak-stats.demolab.com?user=vprezende&theme=dark&mode=weekly" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=vprezende&theme=dark&mode=weekly"/>
 </div>
 
 ##
