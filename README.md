@@ -17,7 +17,6 @@
 </div>
 
 <div style="text-align:center; margin-bottom:100px;">
-  <img width="40%" src="https://github-readme-stats-vprezende-projects.vercel.app/api/top-langs/?username=vprezende&show_icons=true&theme=dark&layout=compact" style="display:inline-block; margin-right:10px;" />
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=vprezende&theme=dark&mode=weekly" style="display:inline-block;" />
 </div>
 
