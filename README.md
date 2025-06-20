@@ -17,11 +17,11 @@
 
 &nbsp;
 
-<div style="text-align:center; margin-bottom: 100px;">
-  <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&show_icons=true&count_private=true&hide=issues&theme=dark&layout=compact" style="display: inline-block; margin-right: 20px;" alt="Vinicius Rezende github stats" />
-  <img width=55% src="https://github-readme-streak-stats-eight.vercel.app?user=vprezende&theme=dark&mode=weekly" style="display: inline-block;" />
+<div style="center">
+  <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&show_icons=true&count_private=true&hide=issues&theme=dark&layout=compact" alt="Vinicius Rezende github stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width=55% src="https://github-readme-streak-stats-eight.vercel.app?user=vprezende&theme=dark&mode=weekly" />
 </div>
-
 &nbsp;
 
 ##
