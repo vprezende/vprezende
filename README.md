@@ -16,9 +16,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117"/>
 </div>
 
-<div  align="center" style="margin-bottom:100px">
-  <img width=40% align="center" src="https://github-readme-stats-vprezende-projects.vercel.app/api/top-langs/?username=vprezende&show_icons=true&theme=dark&layout=compact" />
-  <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vprezende&theme=dark&mode=weekly" />
+<div style="text-align:center; margin-bottom:100px;">
+  <img width="40%" src="https://github-readme-stats-vprezende-projects.vercel.app/api/top-langs/?username=vprezende&show_icons=true&theme=dark&layout=compact" style="display:inline-block; margin-right:10px;" />
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=vprezende&theme=dark&mode=weekly" style="display:inline-block;" />
 </div>
 
 ##
