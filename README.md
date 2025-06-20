@@ -10,7 +10,7 @@
 &nbsp;
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&show_icons=true&theme=dark&layout=compact" style="display:inline-block; margin-right:10px;" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&show_icons=true&theme=dark&layout=compact" />
   <img width="55%" src="https://streak-stats.demolab.com?user=vprezende&theme=dark&mode=weekly" />
 </div>
 
