@@ -9,7 +9,7 @@
 
 <div align="center">
   <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&show_icons=true&theme=dark&layout=compact" />
-  <img width=50% src="https://github-readme-streak-stats-eight.vercel.app?user=vprezende&theme=dark&mode=weekly"/>
+  <img width=55% src="https://github-readme-streak-stats-eight.vercel.app?user=vprezende&theme=dark&mode=weekly"/>
 </div>
 
 ##
