@@ -1,5 +1,14 @@
 ## Oi meu nome é Vinícius, faço aplicativos para celulares e web usando Flutter
 
+<div style="display: flex">
+  <div style="">
+    <h4>Atuo como Desenvolvedor Mobile e Desenvolvedor WEB</h4>
+    <h4>Trabalho com Flutter, Dart, SQL e Figma</h4>
+  </div>
+</div>
+
+&nbsp
+
 <div align="center">
   <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&show_icons=true&theme=dark&layout=compact" />
   <img width=55% src="https://github-readme-streak-stats-eight.vercel.app?user=vprezende&theme=dark&mode=weekly"/>
