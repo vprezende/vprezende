@@ -17,7 +17,7 @@
 </div>
 
 <div  align="center" style="margin-bottom:100px">
-  <img width=40% align="center" src="https://github-readme-stats-matheusbors-projects.vercel.app/api/top-langs/?username=vprezender&show_icons=true&theme=dark&layout=compact" />
+  <img width=40% align="center" src="https://github-readme-stats-vprezende-projects.vercel.app/api/top-langs/?username=vprezende&show_icons=true&theme=dark&layout=compact" />
   <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vprezende&theme=dark&mode=weekly" />
 </div>
 
