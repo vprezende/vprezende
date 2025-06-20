@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&show_icons=true&theme=dark&layout=compact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vprezende&theme=dark&mode=weekly" />
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=matheusbor&theme=dark&mode=weekly" />
 </div>
 
 ##
