@@ -22,6 +22,7 @@
   &nbsp;&nbsp;&nbsp;
   <img width=55% src="https://github-readme-streak-stats-eight.vercel.app?user=vprezende&theme=dark&mode=weekly" />
 </div>
+
 &nbsp;
 
 ##
