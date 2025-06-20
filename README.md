@@ -1,8 +1,8 @@
-## Oi meu nome é Vinícius, faço aplicativos para celulares e web usando Flutter
+## Hi, my name is Vinícius. I build mobile and web apps using Flutter
 
 <div>
-  <h4>Atuo como Desenvolvedor Mobile e Desenvolvedor WEB</h4>
-  <h4>Trabalho com Flutter, Dart, SQL e Figma</h4>
+  <h4>I work as a Mobile and Web Developer</h4>
+  <h4>I use Flutter, Dart, SQL, and Figma</h4>
 </div>
 
 &nbsp;
