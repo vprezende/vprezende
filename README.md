@@ -19,7 +19,6 @@
 
 <div align="center" style="margin-bottom:100px">
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&show_icons=true&count_private=true&hide=issues&theme=dark&layout=compact" alt="Vinicius Rezende github stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width=55% align="center" src="https://github-readme-streak-stats-eight.vercel.app?user=vprezende&theme=dark&mode=weekly" />
 </div>
 
