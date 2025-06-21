@@ -10,7 +10,7 @@
 <div>
   <a href="https://www.linkedin.com/in/vprezende"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://discord.com/users/561688008894447628"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href ="https://mail.google.com/mail/?view=cm&to=vprezende.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href ="mailto:vprezende.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ##
