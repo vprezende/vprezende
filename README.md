@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/vprezende"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:vprezende.work@gmail.com"><img src="https://img.shields.io/badge/-vprezende.work@gmail.com-333333?style=for-the-badge&logo=icloudmail&logoColor=white"></a>
+  <a href="mailto:vprezende.work@gmail.com"><img src="https://img.shields.io/badge/-vprezende.work@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ##
