@@ -15,8 +15,6 @@
 
 ##
 
-&nbsp;
-
 <div align="center">
   <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&show_icons=true&count_private=true&hide=issues&theme=dark&layout=compact" />
   &nbsp;&nbsp;
