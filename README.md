@@ -1,15 +1,18 @@
-## Hi, my name is Vinícius. I build mobile and web apps using Flutter
+## 💫 About Me:
 
 <div>
-  <h4>I work as a Mobile and Web Developer</h4>
-  <h4>I use Flutter, Dart, SQL, and Figma</h4>
+  <h4>Hi, I’m Vinícius</h4>
+  <h4>I’m a Software Engineer working with Flutter and Dart</h4>
+  <h4>I also work with SQL and Figma to build high-quality software solutions</h4>
+  <h4>📧 vprezende.work@gmail.com</h4>
 </div>
 
 &nbsp;
 
+## 🌐 Social Networks:
+
 <div>
   <a href="https://www.linkedin.com/in/vprezende"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:vprezende.work@gmail.com"><img src="https://img.shields.io/badge/-vprezende.work@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ##
