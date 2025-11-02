@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vprezende)
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
