@@ -13,10 +13,6 @@
   <a href="https://www.linkedin.com/in/vprezende"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-##
-
-&nbsp;
-
 <div align="center">
   <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&show_icons=true&count_private=true&hide=issues&theme=dark&layout=compact" />
   &nbsp;&nbsp;
