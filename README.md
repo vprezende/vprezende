@@ -29,14 +29,14 @@
 
 ##
 
+## ☕ Support Me
+
+If you enjoy my work or want to support my projects, you can buy me a coffee! Your support helps me keep learning, experimenting, and creating high-quality software with Flutter
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/vprezende)
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vprezende/vprezende/output/github-contribution-grid-snake.svg">
 </picture>
-
-## ☕ Support Me
-
-If you enjoy my work or want to support my projects, you can buy me a coffee! Your support helps me keep learning, experimenting, and creating high-quality software with Flutter.  
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/vprezende)
