@@ -7,8 +7,6 @@
   <h4>📧 vprezende.work@gmail.com</h4>
 </div>
 
-&nbsp;
-
 ## 🌐 Social Networks:
 
 <div>
