@@ -9,19 +9,23 @@
 
 ## 🌐 Social Networks:
 
-<div>
-  <a href="https://www.linkedin.com/in/vprezende"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vprezende)
 
-&nbsp;
+## 💻 Tech Stack:
+
+![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+##
+
+<br>
 
 <div align="center">
   <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&show_icons=true&count_private=true&hide=issues&theme=dark&layout=compact" />
   &nbsp;&nbsp;
   <img width=55% src="https://github-readme-streak-stats-eight.vercel.app?user=vprezende&theme=dark&mode=weekly" />
 </div>
-
-&nbsp;
 
 ##
 
