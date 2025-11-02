@@ -10,11 +10,15 @@
 
 ## 🌐 Social Networks
 
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vprezende)
 
 ---
 
 ## 💻 Tech Stack
+
+<br>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/-Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white) 
@@ -36,7 +40,13 @@
 
 ## ☕ Support Me
 
-If you enjoy my work or want to support my projects, you can buy me a coffee! Your support helps me keep learning, experimenting, and creating high-quality software with Flutter
+<br>
+
+If you enjoy my work, you can support my projects by buying me a coffee!
+
+Your support helps me keep learning, experimenting, and building high-quality software with Flutter
+
+<br>
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/vprezende)
 
