@@ -31,7 +31,8 @@
 
 ## ☕ Support Me
 
-If you enjoy my work, you can support my projects by buying me a coffee!  
+If you enjoy my work, you can support my projects by buying me a coffee!
+
 Your support helps me keep learning, experimenting, and building high-quality software with Flutter
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/vprezende)
