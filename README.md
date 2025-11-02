@@ -10,15 +10,11 @@
 
 ## 🌐 Social Networks
 
-<br>
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vprezende)
 
 ---
 
 ## 💻 Tech Stack
-
-<br>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/-Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white) 
@@ -31,16 +27,12 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-%234F5D95?style=for-the-badge&logo=insomnia&logoColor=white)
 
-<br>
-
 <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vprezende&show_icons=true&count_private=true&hide=issues&theme=dark&layout=compact" />
 <img width=55% src="https://github-readme-streak-stats-eight.vercel.app?user=vprezende&theme=dark&mode=weekly" />
 
 ---
 
 ## ☕ Support Me
-
-<br>
 
 If you enjoy my work, you can support my projects by buying me a coffee!
 
