@@ -1,7 +1,5 @@
 ## 💫 About Me
 
-<br>
-
 <div>
   <h4>Hi, I’m Vinícius</h4>
   <h4>I’m a Software Engineer working with Flutter to deliver high-quality software solutions.
