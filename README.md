@@ -4,7 +4,7 @@
   <h4>Hi, I’m Vinícius</h4>
   <h4>I’m a Software Engineer working with Flutter to deliver high-quality software solutions.
   <h4>📧 vprezende.work@gmail.com</h4>
-  <h4>💼 <a href="https://www.linkedin.com/in/vprezende">https://www.linkedin.com/in/vprezende</a></h4>
+  <h4>💼 <a href="https://www.linkedin.com/in/vprezende">linkedin.com/in/vprezende</a></h4>
 </div>
 
 ---
