@@ -23,7 +23,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-![Top Langs](https://github-readme-stats-primeup-systems.vercel.app/api/top-langs/?username=vprezende&show_icons=true&count_private=true&hide=issues&theme=dark&layout=pie) 
+![Top Langs](https://github-readme-stats-primeup-systems.vercel.app/api/top-langs/?username=vprezende&count_private=true&theme=dark&layout=pie) 
 &nbsp;&nbsp;
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=vprezende&theme=dark&mode=weekly)
 
