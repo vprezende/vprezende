@@ -29,8 +29,6 @@
 
 ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=vprezende)
 
-![github-trophies](https://stats.hyo.dev/api/github-trophies?login=vprezende)
-
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=vprezende&theme=dark&mode=weekly)
 
 ---
