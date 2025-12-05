@@ -23,6 +23,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
+<br>
+
 ![github-stats](https://stats.hyo.dev/api/github-stats?login=vprezende)
 
 ---
