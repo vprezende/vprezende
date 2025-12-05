@@ -25,7 +25,7 @@
 
 <br>
 
-![github-stats](https://stats.hyo.dev/api/github-stats?login=vprezende)
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=vprezende)
 
 ---
 
