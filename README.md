@@ -34,4 +34,6 @@ If you enjoy my work, you can support my projects by buying me a coffee!
 
 Your support helps me keep learning, experimenting, and building high-quality software with Flutter
 
-[![Buy Me A Coffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg)](https://www.buymeacoffee.com/vprezende)
+<a href="https://www.buymeacoffee.com/vprezende" target="_blank">
+  <img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg" alt="Buy Me A Coffee" height="50">
+</a>
