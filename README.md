@@ -11,7 +11,7 @@
 
 ## 💻 Tech Stack
 
-<p style="white-space: nowrap;">
+<div style="display: inline-flex; flex-wrap: wrap; gap: 0.5rem;">
   <img src="https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-SQLite-%2300739C?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-</p>
+</div>
 
 ###
 
