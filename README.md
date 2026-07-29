@@ -12,9 +12,7 @@
 ## 💻 Tech Stack
 
 [![My Skills](https://simpleicons.dev/icons?icons=flutter,dart,figma,insomnia,docker,linux,firebase,postgresql,sqlite,mongodb,prisma)](https://simpleicons.dev/)
-
 ![github-stats](https://stats.hyo.dev/api/github-stats?login=vprezende)
-
 ![github-trophies](https://stats.hyo.dev/api/github-trophies?login=vprezende)
 
 ---
