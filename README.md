@@ -25,4 +25,4 @@ If you enjoy my work, you can support my projects by buying me a coffee!
 
 Your support helps me keep learning, experimenting, and building high-quality software with Flutter
 
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=vprezende&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=000000)](https://www.buymeacoffee.com/vprezende)
+[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=vprezende&button_colour=EAB308&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=ffffff)](https://www.buymeacoffee.com/vprezende)
