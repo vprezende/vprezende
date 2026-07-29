@@ -11,20 +11,7 @@
 
 ## 💻 Tech Stack
 
-<span>
-  <img height="28" src="https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/-Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/-Insomnia-%234F5D95?style=for-the-badge&logo=insomnia&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/-Linux-%231E2A38?style=for-the-badge&logo=linux&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/-Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" />
-  <img height="28" src="https://img.shields.io/badge/-PostgreSQL-%23147EBA?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/-SQLite-%2300739C?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-</span>
-
+[![My Skills](https://simpleicons.dev/icons?icons=flutter,dart,figma,insomnia,docker,linux,firebase,postgresql,sqlite,mongodb,prisma)](https://simpleicons.dev/)
 ###
 
 ![github-stats](https://stats.hyo.dev/api/github-stats?login=vprezende)
