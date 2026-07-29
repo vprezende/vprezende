@@ -15,8 +15,6 @@
 
 ![github-stats](https://stats.hyo.dev/api/github-stats?login=vprezende)
 
-![github-trophies](https://stats.hyo.dev/api/github-trophies?login=vprezende)
-
 ---
 
 ## ☕ Support Me
@@ -25,4 +23,6 @@ If you enjoy my work, you can support my projects by buying me a coffee!
 
 Your support helps me keep learning, experimenting, and building high-quality software with Flutter
 
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=vprezende&button_colour=EAB308&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=ffffff)](https://www.buymeacoffee.com/vprezende)
+<a href="https://www.buymeacoffee.com/vprezende" target="_blank">
+  <img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg" alt="Buy Me A Coffee" width="150" height="35">
+</a>
