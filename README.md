@@ -25,6 +25,4 @@ If you enjoy my work, you can support my projects by buying me a coffee!
 
 Your support helps me keep learning, experimenting, and building high-quality software with Flutter
 
-<a href="https://www.buymeacoffee.com/vprezende" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=vprezende&button_colour=EAB308&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=ffffff" alt="Buy me a coffee" style="max-width: 12.5rem;" />
-</a>
+[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=vprezende&button_colour=EAB308&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=ffffff)](https://www.buymeacoffee.com/vprezende)
