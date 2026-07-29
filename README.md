@@ -12,6 +12,7 @@
 ## 💻 Tech Stack
 
 [![My Skills](https://simpleicons.dev/icons?icons=flutter,dart,figma,insomnia,docker,linux,firebase,postgresql,sqlite,mongodb,prisma)](https://simpleicons.dev/)
+
 ###
 
 ![github-stats](https://stats.hyo.dev/api/github-stats?login=vprezende)
@@ -28,6 +29,4 @@ If you enjoy my work, you can support my projects by buying me a coffee!
 
 Your support helps me keep learning, experimenting, and building high-quality software with Flutter
 
-<a href="https://www.buymeacoffee.com/vprezende" target="_blank">
-  <img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg" alt="Buy Me A Coffee" width="150" height="35">
-</a>
+[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=vprezende&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=000000)](https://www.buymeacoffee.com/vprezende)
